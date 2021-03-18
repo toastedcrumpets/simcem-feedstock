@@ -1,1 +1,9 @@
-{}
+github:
+  user_or_org: toastedcrumpets
+channels:
+  targets:
+  - [toastedcrumpets, main]
+
+appveyor:
+  secure:
+    BINSTAR_TOKEN: I9Pz6oWVtp+VA7o88RSoUITKjDy2RURWz+JwGMDPC7z/+XTK3JcGgLjE2GVeugcZ
