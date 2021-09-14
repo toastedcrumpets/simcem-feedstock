@@ -1,1 +1,3 @@
-{}
+appveyor:
+  secure:
+    BINSTAR_TOKEN: fYj9Upc/JnweEv+KJ6X4cPQ4AsbokVs9NgZSNxN4F9PfegPnHzYzICoyfeBJcLfd
